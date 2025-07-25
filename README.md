@@ -36,4 +36,4 @@ A simple command-line based Python application to manage staff attendance. This 
 
 Made with ❤️ by **Shreyash** for a school project.
 
-🔗 GitHub:[ [@your-github-username](https://github.com/your-github-username)](https://github.com/shreyashvatsal007)
+🔗 GitHub:(https://github.com/shreyashvatsal007)
