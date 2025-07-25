@@ -1,2 +1,31 @@
-# Staff-Attendance-Manager
-A simple command-line Python application to manage staff attendance. It allows users to create an attendance file, mark daily attendance with date and status, view attendance records, and display a summary of presence/absence per staff member. Uses basic file handling and date functions.
+# 📋 Staff Attendance Manager (Python)
+
+A simple command-line based Python application to manage staff attendance. This tool helps track daily attendance, view records, and summarize presence/absence for each staff member using a plain text file.
+
+---
+
+## 🚀 Features
+
+- 📁 Create a new attendance file
+- ✍️ Mark attendance with name, date, and status
+- 📄 View all attendance records
+- 📊 Get a summary of presence and absence per staff
+- 🗓️ Automatically tracks current date
+- 💾 Lightweight and easy to use
+
+---
+
+## 🛠️ Tech Used
+
+- Python 3
+- File Handling
+- `datetime` module
+
+---
+
+## 📦 How to Run
+
+1. **Clone the repo**
+   ```bash
+   git clone https://github.com/your-username/staff-attendance-manager.git
+   cd staff-attendance-manager
