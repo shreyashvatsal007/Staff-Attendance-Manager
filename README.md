@@ -29,3 +29,11 @@ A simple command-line based Python application to manage staff attendance. This 
    ```bash
    git clone https://github.com/your-username/staff-attendance-manager.git
    cd staff-attendance-manager
+
+
+
+## 👨‍💻 Author
+
+Made with ❤️ by **Shreyash** for a school project.
+
+🔗 GitHub:[ [@your-github-username](https://github.com/your-github-username)](https://github.com/shreyashvatsal007)
